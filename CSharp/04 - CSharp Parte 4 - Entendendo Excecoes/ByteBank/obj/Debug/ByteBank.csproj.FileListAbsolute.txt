@@ -1,0 +1,8 @@
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\04 - CSharp Parte 4 - Entendendo Excecoes\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\04 - CSharp Parte 4 - Entendendo Excecoes\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\04 - CSharp Parte 4 - Entendendo Excecoes\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\04 - CSharp Parte 4 - Entendendo Excecoes\ByteBank\obj\Debug\ByteBank.csproj.AssemblyReference.cache
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\04 - CSharp Parte 4 - Entendendo Excecoes\ByteBank\obj\Debug\ByteBank.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\04 - CSharp Parte 4 - Entendendo Excecoes\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\04 - CSharp Parte 4 - Entendendo Excecoes\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\04 - CSharp Parte 4 - Entendendo Excecoes\ByteBank\obj\Debug\ByteBank.pdb
