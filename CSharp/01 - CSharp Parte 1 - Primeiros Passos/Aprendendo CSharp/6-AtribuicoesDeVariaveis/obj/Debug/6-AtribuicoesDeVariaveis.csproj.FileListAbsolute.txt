@@ -1,0 +1,8 @@
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\01 - CSharp Parte 1 - Primeiros Passos\Aprendendo CSharp\6-AtribuicoesDeVariaveis\bin\Debug\6-AtribuicoesDeVariaveis.exe.config
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\01 - CSharp Parte 1 - Primeiros Passos\Aprendendo CSharp\6-AtribuicoesDeVariaveis\bin\Debug\6-AtribuicoesDeVariaveis.exe
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\01 - CSharp Parte 1 - Primeiros Passos\Aprendendo CSharp\6-AtribuicoesDeVariaveis\bin\Debug\6-AtribuicoesDeVariaveis.pdb
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\01 - CSharp Parte 1 - Primeiros Passos\Aprendendo CSharp\6-AtribuicoesDeVariaveis\obj\Debug\6-AtribuicoesDeVariaveis.csproj.AssemblyReference.cache
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\01 - CSharp Parte 1 - Primeiros Passos\Aprendendo CSharp\6-AtribuicoesDeVariaveis\obj\Debug\6-AtribuicoesDeVariaveis.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\01 - CSharp Parte 1 - Primeiros Passos\Aprendendo CSharp\6-AtribuicoesDeVariaveis\obj\Debug\6-AtribuicoesDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\01 - CSharp Parte 1 - Primeiros Passos\Aprendendo CSharp\6-AtribuicoesDeVariaveis\obj\Debug\6-AtribuicoesDeVariaveis.exe
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\01 - CSharp Parte 1 - Primeiros Passos\Aprendendo CSharp\6-AtribuicoesDeVariaveis\obj\Debug\6-AtribuicoesDeVariaveis.pdb

@@ -1,0 +1,7 @@
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\01 - CSharp Parte 1 - Primeiros Passos\Aprendendo CSharp\P12-CalculaInvestimentoLongoPrazo\bin\Debug\P12-CalculaInvestimentoLongoPrazo.exe.config
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\01 - CSharp Parte 1 - Primeiros Passos\Aprendendo CSharp\P12-CalculaInvestimentoLongoPrazo\bin\Debug\P12-CalculaInvestimentoLongoPrazo.exe
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\01 - CSharp Parte 1 - Primeiros Passos\Aprendendo CSharp\P12-CalculaInvestimentoLongoPrazo\bin\Debug\P12-CalculaInvestimentoLongoPrazo.pdb
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\01 - CSharp Parte 1 - Primeiros Passos\Aprendendo CSharp\P12-CalculaInvestimentoLongoPrazo\obj\Debug\P12-CalculaInvestimentoLongoPrazo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\01 - CSharp Parte 1 - Primeiros Passos\Aprendendo CSharp\P12-CalculaInvestimentoLongoPrazo\obj\Debug\P12-CalculaInvestimentoLongoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\01 - CSharp Parte 1 - Primeiros Passos\Aprendendo CSharp\P12-CalculaInvestimentoLongoPrazo\obj\Debug\P12-CalculaInvestimentoLongoPrazo.exe
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\01 - CSharp Parte 1 - Primeiros Passos\Aprendendo CSharp\P12-CalculaInvestimentoLongoPrazo\obj\Debug\P12-CalculaInvestimentoLongoPrazo.pdb

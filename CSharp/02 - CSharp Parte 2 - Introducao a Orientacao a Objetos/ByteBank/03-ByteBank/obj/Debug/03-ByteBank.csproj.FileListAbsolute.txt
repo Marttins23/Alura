@@ -1,0 +1,8 @@
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\02 - CSharp Parte 2 - Introducao a Orientacao a Objetos\ByteBank\03-ByteBank\bin\Debug\03-ByteBank.exe.config
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\02 - CSharp Parte 2 - Introducao a Orientacao a Objetos\ByteBank\03-ByteBank\bin\Debug\03-ByteBank.exe
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\02 - CSharp Parte 2 - Introducao a Orientacao a Objetos\ByteBank\03-ByteBank\bin\Debug\03-ByteBank.pdb
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\02 - CSharp Parte 2 - Introducao a Orientacao a Objetos\ByteBank\03-ByteBank\obj\Debug\03-ByteBank.csproj.AssemblyReference.cache
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\02 - CSharp Parte 2 - Introducao a Orientacao a Objetos\ByteBank\03-ByteBank\obj\Debug\03-ByteBank.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\02 - CSharp Parte 2 - Introducao a Orientacao a Objetos\ByteBank\03-ByteBank\obj\Debug\03-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\02 - CSharp Parte 2 - Introducao a Orientacao a Objetos\ByteBank\03-ByteBank\obj\Debug\03-ByteBank.exe
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\02 - CSharp Parte 2 - Introducao a Orientacao a Objetos\ByteBank\03-ByteBank\obj\Debug\03-ByteBank.pdb

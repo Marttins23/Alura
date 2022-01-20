@@ -1,0 +1,8 @@
+C:\Users\Mateus\Documents\GitHub\Alura\C#\01 - C# Parte 1 - Primeiros Passos\Aprendendo CSharp\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.exe.config
+C:\Users\Mateus\Documents\GitHub\Alura\C#\01 - C# Parte 1 - Primeiros Passos\Aprendendo CSharp\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.exe
+C:\Users\Mateus\Documents\GitHub\Alura\C#\01 - C# Parte 1 - Primeiros Passos\Aprendendo CSharp\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.pdb
+C:\Users\Mateus\Documents\GitHub\Alura\C#\01 - C# Parte 1 - Primeiros Passos\Aprendendo CSharp\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.csproj.AssemblyReference.cache
+C:\Users\Mateus\Documents\GitHub\Alura\C#\01 - C# Parte 1 - Primeiros Passos\Aprendendo CSharp\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mateus\Documents\GitHub\Alura\C#\01 - C# Parte 1 - Primeiros Passos\Aprendendo CSharp\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Documents\GitHub\Alura\C#\01 - C# Parte 1 - Primeiros Passos\Aprendendo CSharp\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.exe
+C:\Users\Mateus\Documents\GitHub\Alura\C#\01 - C# Parte 1 - Primeiros Passos\Aprendendo CSharp\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.pdb

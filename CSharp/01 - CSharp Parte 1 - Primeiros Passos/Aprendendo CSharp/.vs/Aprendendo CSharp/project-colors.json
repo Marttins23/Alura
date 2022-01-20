@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8ddce660-a984-4796-8755-ddf1f0ecbbdb": {
+      "ProjectGuid": "8ddce660-a984-4796-8755-ddf1f0ecbbdb",
+      "DisplayName": "1-PrimeiroProjeto",
+      "ColorIndex": 0
+    },
+    "562377f6-e724-4e96-8016-552efe99181c": {
+      "ProjectGuid": "562377f6-e724-4e96-8016-552efe99181c",
+      "DisplayName": "2-CriandoVariaveis",
+      "ColorIndex": 1
+    },
+    "821f82ee-1635-40da-b9fa-663c2508c06a": {
+      "ProjectGuid": "821f82ee-1635-40da-b9fa-663c2508c06a",
+      "DisplayName": "3-VariaveisPontoFlutuante",
+      "ColorIndex": 2
+    },
+    "6135ab47-8fc3-4591-9b09-7d6cc72bfe99": {
+      "ProjectGuid": "6135ab47-8fc3-4591-9b09-7d6cc72bfe99",
+      "DisplayName": "4-ConversoesEOutrosTiposNumericos",
+      "ColorIndex": 3
+    },
+    "62b85d60-065d-4150-bc26-a37ddee07b40": {
+      "ProjectGuid": "62b85d60-065d-4150-bc26-a37ddee07b40",
+      "DisplayName": "5-CaracteresETextos",
+      "ColorIndex": 4
+    },
+    "af754ede-3c5c-477e-8f0f-aae899b32b4d": {
+      "ProjectGuid": "af754ede-3c5c-477e-8f0f-aae899b32b4d",
+      "DisplayName": "6-AtribuicoesDeVariaveis",
+      "ColorIndex": 5
+    },
+    "7b613fbd-a05e-49d2-a6de-fd8bd8787da5": {
+      "ProjectGuid": "7b613fbd-a05e-49d2-a6de-fd8bd8787da5",
+      "DisplayName": "7-Condicionais",
+      "ColorIndex": 6
+    },
+    "d9123a0b-853c-4e68-a6f0-0680bacac6ea": {
+      "ProjectGuid": "d9123a0b-853c-4e68-a6f0-0680bacac6ea",
+      "DisplayName": "8-Condicionais2",
+      "ColorIndex": 7
+    },
+    "a2a6bea4-c854-4cc2-a81d-0612d96fa757": {
+      "ProjectGuid": "a2a6bea4-c854-4cc2-a81d-0612d96fa757",
+      "DisplayName": "9-Escopo",
+      "ColorIndex": 8
+    },
+    "64dc4acb-e8ed-4269-b502-4def563c0c56": {
+      "ProjectGuid": "64dc4acb-e8ed-4269-b502-4def563c0c56",
+      "DisplayName": "P10-CalculaPoupanca",
+      "ColorIndex": 9
+    },
+    "985210ad-01ec-428e-af11-238a4b0c31a9": {
+      "ProjectGuid": "985210ad-01ec-428e-af11-238a4b0c31a9",
+      "DisplayName": "P11-CalculaPoupanca2",
+      "ColorIndex": 10
+    },
+    "38a21b6d-24f9-4e23-821a-6591698653b3": {
+      "ProjectGuid": "38a21b6d-24f9-4e23-821a-6591698653b3",
+      "DisplayName": "P12-CalculaInvestimentoLongoPrazo",
+      "ColorIndex": 11
+    },
+    "91ca84ec-91c6-43c1-9cfc-e255cba8c5ef": {
+      "ProjectGuid": "91ca84ec-91c6-43c1-9cfc-e255cba8c5ef",
+      "DisplayName": "P13-ForEncadeado",
+      "ColorIndex": 12
+    }
+  },
+  "NextColorIndex": 13
+}

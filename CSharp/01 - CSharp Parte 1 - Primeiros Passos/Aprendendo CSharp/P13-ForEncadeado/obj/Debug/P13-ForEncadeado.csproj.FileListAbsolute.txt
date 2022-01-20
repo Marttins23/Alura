@@ -1,0 +1,7 @@
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\01 - CSharp Parte 1 - Primeiros Passos\Aprendendo CSharp\P13-ForEncadeado\bin\Debug\P13-ForEncadeado.exe.config
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\01 - CSharp Parte 1 - Primeiros Passos\Aprendendo CSharp\P13-ForEncadeado\bin\Debug\P13-ForEncadeado.exe
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\01 - CSharp Parte 1 - Primeiros Passos\Aprendendo CSharp\P13-ForEncadeado\bin\Debug\P13-ForEncadeado.pdb
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\01 - CSharp Parte 1 - Primeiros Passos\Aprendendo CSharp\P13-ForEncadeado\obj\Debug\P13-ForEncadeado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\01 - CSharp Parte 1 - Primeiros Passos\Aprendendo CSharp\P13-ForEncadeado\obj\Debug\P13-ForEncadeado.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\01 - CSharp Parte 1 - Primeiros Passos\Aprendendo CSharp\P13-ForEncadeado\obj\Debug\P13-ForEncadeado.exe
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\01 - CSharp Parte 1 - Primeiros Passos\Aprendendo CSharp\P13-ForEncadeado\obj\Debug\P13-ForEncadeado.pdb

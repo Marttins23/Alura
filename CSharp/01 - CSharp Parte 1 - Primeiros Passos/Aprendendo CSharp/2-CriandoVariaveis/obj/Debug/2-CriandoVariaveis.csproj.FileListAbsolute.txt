@@ -1,0 +1,8 @@
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\01 - CSharp Parte 1 - Primeiros Passos\Aprendendo CSharp\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.exe.config
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\01 - CSharp Parte 1 - Primeiros Passos\Aprendendo CSharp\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.exe
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\01 - CSharp Parte 1 - Primeiros Passos\Aprendendo CSharp\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.pdb
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\01 - CSharp Parte 1 - Primeiros Passos\Aprendendo CSharp\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.csproj.AssemblyReference.cache
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\01 - CSharp Parte 1 - Primeiros Passos\Aprendendo CSharp\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\01 - CSharp Parte 1 - Primeiros Passos\Aprendendo CSharp\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\01 - CSharp Parte 1 - Primeiros Passos\Aprendendo CSharp\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.exe
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\01 - CSharp Parte 1 - Primeiros Passos\Aprendendo CSharp\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.pdb

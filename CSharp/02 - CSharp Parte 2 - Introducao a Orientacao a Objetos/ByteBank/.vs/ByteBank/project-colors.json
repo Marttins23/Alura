@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8cd94e75-cb7f-495d-a2a1-de7f95cb1a76": {
+      "ProjectGuid": "8cd94e75-cb7f-495d-a2a1-de7f95cb1a76",
+      "DisplayName": "01-ByteBank",
+      "ColorIndex": 0
+    },
+    "ae7757a2-123d-4f86-9a4b-7252bb8e7e89": {
+      "ProjectGuid": "ae7757a2-123d-4f86-9a4b-7252bb8e7e89",
+      "DisplayName": "02-ByteBank",
+      "ColorIndex": 1
+    },
+    "3af56eda-ba1b-4a59-ac8b-f5634c9f34fb": {
+      "ProjectGuid": "3af56eda-ba1b-4a59-ac8b-f5634c9f34fb",
+      "DisplayName": "03-ByteBank",
+      "ColorIndex": 2
+    },
+    "0613bcd6-468f-48fc-b690-83c69dd138b8": {
+      "ProjectGuid": "0613bcd6-468f-48fc-b690-83c69dd138b8",
+      "DisplayName": "04-ByteBank",
+      "ColorIndex": 3
+    },
+    "be6d5a33-acb1-4309-8599-4b4901d969d4": {
+      "ProjectGuid": "be6d5a33-acb1-4309-8599-4b4901d969d4",
+      "DisplayName": "05-ByteBank",
+      "ColorIndex": 4
+    },
+    "a9aa9c41-9d95-4ade-86b0-49eb383e33f7": {
+      "ProjectGuid": "a9aa9c41-9d95-4ade-86b0-49eb383e33f7",
+      "DisplayName": "06-ByteBank",
+      "ColorIndex": 5
+    },
+    "de3b7577-c4c2-4e2c-a4e2-8b1d288be5d9": {
+      "ProjectGuid": "de3b7577-c4c2-4e2c-a4e2-8b1d288be5d9",
+      "DisplayName": "07-ByteBank",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

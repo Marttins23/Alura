@@ -1,0 +1,7 @@
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\01 - CSharp Parte 1 - Primeiros Passos\Aprendendo CSharp\P11-CalculaPoupanca2\bin\Debug\P11-CalculaPoupanca2.exe.config
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\01 - CSharp Parte 1 - Primeiros Passos\Aprendendo CSharp\P11-CalculaPoupanca2\bin\Debug\P11-CalculaPoupanca2.exe
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\01 - CSharp Parte 1 - Primeiros Passos\Aprendendo CSharp\P11-CalculaPoupanca2\bin\Debug\P11-CalculaPoupanca2.pdb
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\01 - CSharp Parte 1 - Primeiros Passos\Aprendendo CSharp\P11-CalculaPoupanca2\obj\Debug\P11-CalculaPoupanca2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\01 - CSharp Parte 1 - Primeiros Passos\Aprendendo CSharp\P11-CalculaPoupanca2\obj\Debug\P11-CalculaPoupanca2.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\01 - CSharp Parte 1 - Primeiros Passos\Aprendendo CSharp\P11-CalculaPoupanca2\obj\Debug\P11-CalculaPoupanca2.exe
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\01 - CSharp Parte 1 - Primeiros Passos\Aprendendo CSharp\P11-CalculaPoupanca2\obj\Debug\P11-CalculaPoupanca2.pdb
