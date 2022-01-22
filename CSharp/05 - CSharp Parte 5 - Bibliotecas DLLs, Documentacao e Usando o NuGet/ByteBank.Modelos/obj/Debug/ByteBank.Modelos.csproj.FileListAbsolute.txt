@@ -1,0 +1,7 @@
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\05 - CSharp Parte 5 - Bibliotecas DLLs, Documentacao e Usando o NuGet\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.xml
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\05 - CSharp Parte 5 - Bibliotecas DLLs, Documentacao e Usando o NuGet\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\05 - CSharp Parte 5 - Bibliotecas DLLs, Documentacao e Usando o NuGet\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\05 - CSharp Parte 5 - Bibliotecas DLLs, Documentacao e Usando o NuGet\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.AssemblyReference.cache
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\05 - CSharp Parte 5 - Bibliotecas DLLs, Documentacao e Usando o NuGet\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\05 - CSharp Parte 5 - Bibliotecas DLLs, Documentacao e Usando o NuGet\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\05 - CSharp Parte 5 - Bibliotecas DLLs, Documentacao e Usando o NuGet\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
