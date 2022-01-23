@@ -46,9 +46,11 @@ namespace ByteBank.Modelos
         /// </summary>
         /// <param name="agencia"> Representa o valor da propriedade <see cref="Agencia"/> e deve possuir um valor maior que zero. </param>
         /// <param name="numero"> Representa o valor da propriedade <see cref="Numero"/> e deve possuir um valor maior que zero. </param>
+        /// <exception cref="ArgumentException">Exceção lançada quando o valor de <paramref name="agencia"/> ou o valor de <paramref name="numero"/>
+        /// são menores que zero.</exception>
         public ContaCorrente(int agencia, int numero)
         {
-            if (numero <= 0)
+            if (agencia <= 0)
             {
                 throw new ArgumentException("O argumento agencia deve ser maior que 0.", nameof(agencia));
             }
