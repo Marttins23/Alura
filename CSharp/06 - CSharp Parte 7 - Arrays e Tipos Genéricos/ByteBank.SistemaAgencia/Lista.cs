@@ -1,5 +1,4 @@
-﻿using ByteBank.Modelos;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -7,37 +6,37 @@ using System.Threading.Tasks;
 
 namespace ByteBank.SistemaAgencia
 {
-    public class ListaDeContaCorrente
+    public class Lista<T>
     {
-        private ContaCorrente[] _contas;
-        public ContaCorrente[] Contas 
-        { 
+        private T[] _itens;
+        public T[] Itens
+        {
             get
             {
-                ContaCorrente[] arrayCopia = new ContaCorrente[_contas.Length];
-                for(int i = 0; i < _contas.Length; i++)
+                T[] arrayCopia = new T[_itens.Length];
+                for (int i = 0; i < _itens.Length; i++)
                 {
-                    arrayCopia[i] = _contas[i];
+                    arrayCopia[i] = _itens[i];
                 }
 
                 return arrayCopia;
             }
         }
-        
+
         private int _proximaPosicao;
 
-        public int Tamanho 
-        { 
-            get 
-            { 
-                return _proximaPosicao; 
+        public int Tamanho
+        {
+            get
+            {
+                return _proximaPosicao;
             }
         }
 
         //Argumento opcional (valor padrão de 'tamanho' será 3).
-        public ListaDeContaCorrente(int tamanho = 3)
+        public Lista(int tamanho = 3)
         {
-            _contas = new ContaCorrente[tamanho];
+            _itens = new T[tamanho];
             _proximaPosicao = 0;
         }
 
@@ -54,50 +53,50 @@ namespace ByteBank.SistemaAgencia
 
         public void VerificarCapacidade(int tamanhoNecessario)
         {
-            if(_contas.Length >= tamanhoNecessario)
+            if (_itens.Length >= tamanhoNecessario)
             {
                 return;
             }
 
-            int novoTamanho = _contas.Length * 2;
-            if(novoTamanho < tamanhoNecessario)
+            int novoTamanho = _itens.Length * 2;
+            if (novoTamanho < tamanhoNecessario)
             {
                 novoTamanho = tamanhoNecessario;
             }
 
-            ContaCorrente[] novoArray = new ContaCorrente[novoTamanho];
+            T[] novoArray = new T[novoTamanho];
 
-            for(int i = 0; i < _contas.Length; i++)
+            for (int i = 0; i < _itens.Length; i++)
             {
-                novoArray[i] = _contas[i];
+                novoArray[i] = _itens[i];
             }
 
-            _contas = novoArray;
+            _itens = novoArray;
         }
 
-        public void ImprimeContas()
+        public void ImprimeItens()
         {
             for (int i = 0; i < _proximaPosicao; i++)
             {
-                Console.WriteLine($"Conta no índice {i}: " + _contas[i].ToString());
+                Console.WriteLine($"Item no índice {i}: " + _itens[i].ToString());
             }
         }
 
-        public void Adicionar(ContaCorrente conta)
+        public void Adicionar(T item)
         {
-            VerificarCapacidade(_proximaPosicao + 1);            
-            
-            _contas[_proximaPosicao] = conta;
+            VerificarCapacidade(_proximaPosicao + 1);
+
+            _itens[_proximaPosicao] = item;
             _proximaPosicao++;
         }
 
-        public void Remover(ContaCorrente conta)
+        public void Remover(T item)
         {
             int posicaoDoItem = -1;
 
-            for(int i = 0; i < _proximaPosicao; i++)
+            for (int i = 0; i < _proximaPosicao; i++)
             {
-                if(_contas[i].Equals(conta))
+                if (_itens[i].Equals(item))
                 {
                     posicaoDoItem = i;
                     break;
@@ -106,36 +105,36 @@ namespace ByteBank.SistemaAgencia
 
             for (int i = posicaoDoItem; i < _proximaPosicao - 1; i++)
             {
-                _contas[i] = _contas[i + 1];
+                _itens[i] = _itens[i + 1];
             }
 
             _proximaPosicao--;
-            _contas[_proximaPosicao] = null;
+            //_contas[_proximaPosicao] = null;
         }
 
-        public ContaCorrente GetConta(int indice)
+        public T GetItem(int indice)
         {
-            if(indice >= _proximaPosicao || indice < 0)
+            if (indice >= _proximaPosicao || indice < 0)
             {
                 throw new ArgumentException($"Valor incorreto. ", nameof(indice));
             }
-            return _contas[indice];
+            return _itens[indice];
         }
 
         //Criando Indexadores
-        public ContaCorrente this[int indice]
+        public T this[int indice]
         {
             get
             {
-                return GetConta(indice);
+                return GetItem(indice);
             }
         }
 
-        public void AdicionarVarios(params ContaCorrente[] contas)
+        public void AdicionarVarios(params T[] itens)
         {
-            foreach (ContaCorrente conta in contas)
+            foreach (T item in itens)
             {
-                Adicionar(conta);
+                Adicionar(item);
             }
         }
     }

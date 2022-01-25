@@ -13,37 +13,53 @@ namespace ByteBank.SistemaAgencia
     {
         static void Main(string[] args)
         {
+            Lista<int> listaIdades = new Lista<int>();
+
+            listaIdades.Adicionar(2);
+            listaIdades.Adicionar(5);
+            listaIdades.Adicionar(8);
+            listaIdades.AdicionarVarios(8, 7, 14, 73);
+
+            listaIdades.ImprimeContas();
+
+            Console.WriteLine("\nPressione enter para sair...");
+            Console.ReadLine();
+        }
+
+        public static void TestaListaDeContasCorrentes()
+        {
             ListaDeContaCorrente lista = new ListaDeContaCorrente(3);
 
             ContaCorrente contaJoao = new ContaCorrente("Joao", 876, 756473);
 
-            lista.Adicionar(contaJoao);
-            lista.Adicionar(new ContaCorrente("Mateus", 865, 865748));
-            lista.Adicionar(new ContaCorrente("Mateus", 865, 865748));
-            lista.Adicionar(new ContaCorrente("Mateus", 865, 865748));
-            lista.Adicionar(new ContaCorrente("Mateus", 865, 865748));
-            lista.Adicionar(new ContaCorrente("Mateus", 865, 865748));
+            lista.AdicionarVarios(
+                contaJoao,
+                new ContaCorrente("Mateus", 865, 865748),
+                new ContaCorrente("Mateus", 865, 865748),
+                new ContaCorrente("Mateus", 865, 865748),
+                new ContaCorrente("Mateus", 865, 865748),
+                new ContaCorrente("Mateus", 865, 865748),
+                new ContaCorrente("Mateus", 865, 865748)
+            );
             //lista.ImprimeContas();
 
-            for(int i = 0; i < lista.Tamanho; i++)
+            for (int i = 0; i < lista.Tamanho; i++)
             {
                 try
                 {
-                    ContaCorrente contaAtual = lista.GetConta(i);
+                    //Usando Indexadores
+                    ContaCorrente contaAtual = lista[i];
                     Console.WriteLine(contaAtual.ToString());
                 }
-                catch(Exception ex)
+                catch (Exception ex)
                 {
                     Console.WriteLine(ex.ToString());
                 }
-                
+
             }
 
             //lista.Remover(contaJoao);
             //lista.ImprimeContas();
-
-            Console.WriteLine("\nPressione enter para sair...");
-            Console.ReadLine();
         }
 
         public static void TestaContaCorrente()
