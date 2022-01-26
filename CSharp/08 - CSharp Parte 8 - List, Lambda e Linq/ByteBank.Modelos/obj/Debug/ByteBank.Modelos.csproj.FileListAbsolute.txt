@@ -1,0 +1,28 @@
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\05 - CSharp Parte 5 - Bibliotecas DLLs, Documentacao e Usando o NuGet\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.xml
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\05 - CSharp Parte 5 - Bibliotecas DLLs, Documentacao e Usando o NuGet\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\05 - CSharp Parte 5 - Bibliotecas DLLs, Documentacao e Usando o NuGet\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\05 - CSharp Parte 5 - Bibliotecas DLLs, Documentacao e Usando o NuGet\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.AssemblyReference.cache
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\05 - CSharp Parte 5 - Bibliotecas DLLs, Documentacao e Usando o NuGet\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\05 - CSharp Parte 5 - Bibliotecas DLLs, Documentacao e Usando o NuGet\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\05 - CSharp Parte 5 - Bibliotecas DLLs, Documentacao e Usando o NuGet\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\06 - CSharp Parte 6 - Strings, Expressoes Regulares e a Classe Object\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.xml
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\06 - CSharp Parte 6 - Strings, Expressoes Regulares e a Classe Object\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\06 - CSharp Parte 6 - Strings, Expressoes Regulares e a Classe Object\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\06 - CSharp Parte 6 - Strings, Expressoes Regulares e a Classe Object\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.AssemblyReference.cache
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\06 - CSharp Parte 6 - Strings, Expressoes Regulares e a Classe Object\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\06 - CSharp Parte 6 - Strings, Expressoes Regulares e a Classe Object\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\06 - CSharp Parte 6 - Strings, Expressoes Regulares e a Classe Object\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\06 - CSharp Parte 7 - Arrays e Tipos Genéricos\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.xml
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\06 - CSharp Parte 7 - Arrays e Tipos Genéricos\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\06 - CSharp Parte 7 - Arrays e Tipos Genéricos\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\06 - CSharp Parte 7 - Arrays e Tipos Genéricos\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.AssemblyReference.cache
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\06 - CSharp Parte 7 - Arrays e Tipos Genéricos\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\06 - CSharp Parte 7 - Arrays e Tipos Genéricos\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\06 - CSharp Parte 7 - Arrays e Tipos Genéricos\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\08 - CSharp Parte 8 - List, Lambda e Linq\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.xml
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\08 - CSharp Parte 8 - List, Lambda e Linq\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\08 - CSharp Parte 8 - List, Lambda e Linq\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\08 - CSharp Parte 8 - List, Lambda e Linq\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.AssemblyReference.cache
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\08 - CSharp Parte 8 - List, Lambda e Linq\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\08 - CSharp Parte 8 - List, Lambda e Linq\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\08 - CSharp Parte 8 - List, Lambda e Linq\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
