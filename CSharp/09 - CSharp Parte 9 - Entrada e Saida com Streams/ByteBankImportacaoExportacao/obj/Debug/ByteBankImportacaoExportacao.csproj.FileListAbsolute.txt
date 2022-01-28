@@ -1,0 +1,8 @@
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\09 - CSharp Parte 9 - Entrada e Saida com Streams\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe.config
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\09 - CSharp Parte 9 - Entrada e Saida com Streams\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\09 - CSharp Parte 9 - Entrada e Saida com Streams\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.pdb
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\09 - CSharp Parte 9 - Entrada e Saida com Streams\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\09 - CSharp Parte 9 - Entrada e Saida com Streams\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\09 - CSharp Parte 9 - Entrada e Saida com Streams\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.exe
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\09 - CSharp Parte 9 - Entrada e Saida com Streams\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.pdb
+C:\Users\Mateus\Documents\GitHub\Alura\CSharp\09 - CSharp Parte 9 - Entrada e Saida com Streams\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csproj.AssemblyReference.cache
