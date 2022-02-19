@@ -1,0 +1,16 @@
+{
+  "name": "marttins23/buscador-cursos",
+  "description": "Buscador de cursos no site da Alura",
+  "minimum-stability": "stable",
+  "type": "library",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Mateus",
+      "email": "mateus_martins18@yahoo.com.br"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "^7.4"
+  }
+}
