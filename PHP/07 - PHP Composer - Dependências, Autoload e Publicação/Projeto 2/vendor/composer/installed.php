@@ -5,7 +5,7 @@
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'ab36192be7f23b82dbe81a65e70bc99e995893f7',
+        'reference' => 'aba68e562ff4d342c50bcd5c8f142c5cacdc9cf0',
         'name' => '__root__',
         'dev' => true,
     ),
@@ -16,7 +16,7 @@
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'ab36192be7f23b82dbe81a65e70bc99e995893f7',
+            'reference' => 'aba68e562ff4d342c50bcd5c8f142c5cacdc9cf0',
             'dev_requirement' => false,
         ),
         'guzzlehttp/guzzle' => array(
@@ -47,12 +47,12 @@
             'dev_requirement' => false,
         ),
         'marttins23/buscador-cursos' => array(
-            'pretty_version' => 'v1.0.0',
-            'version' => '1.0.0.0',
+            'pretty_version' => 'v1.1.0',
+            'version' => '1.1.0.0',
             'type' => 'library',
             'install_path' => __DIR__ . '/../marttins23/buscador-cursos',
             'aliases' => array(),
-            'reference' => 'c67a99c43290651585eb2ea541c29d77dcd94e82',
+            'reference' => 'c6173015905792f8b232aa6b7b2b6b3296e67ace',
             'dev_requirement' => false,
         ),
         'psr/http-client' => array(

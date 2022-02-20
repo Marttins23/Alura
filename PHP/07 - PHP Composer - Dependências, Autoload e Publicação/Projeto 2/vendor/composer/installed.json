@@ -334,17 +334,17 @@
         },
         {
             "name": "marttins23/buscador-cursos",
-            "version": "v1.0.0",
-            "version_normalized": "1.0.0.0",
+            "version": "v1.1.0",
+            "version_normalized": "1.1.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Marttins23/alura-buscador-de-cursos.git",
-                "reference": "c67a99c43290651585eb2ea541c29d77dcd94e82"
+                "reference": "c6173015905792f8b232aa6b7b2b6b3296e67ace"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Marttins23/alura-buscador-de-cursos/zipball/c67a99c43290651585eb2ea541c29d77dcd94e82",
-                "reference": "c67a99c43290651585eb2ea541c29d77dcd94e82",
+                "url": "https://api.github.com/repos/Marttins23/alura-buscador-de-cursos/zipball/c6173015905792f8b232aa6b7b2b6b3296e67ace",
+                "reference": "c6173015905792f8b232aa6b7b2b6b3296e67ace",
                 "shasum": ""
             },
             "require": {
@@ -357,7 +357,10 @@
                 "phpunit/phpunit": "^9.5",
                 "squizlabs/php_codesniffer": "^3.6"
             },
-            "time": "2022-02-19T23:32:59+00:00",
+            "time": "2022-02-20T00:06:38+00:00",
+            "bin": [
+                "buscar-cursos.php"
+            ],
             "type": "library",
             "installation-source": "dist",
             "autoload": {
@@ -381,7 +384,7 @@
             "description": "Buscador de cursos no site da Alura",
             "support": {
                 "issues": "https://github.com/Marttins23/alura-buscador-de-cursos/issues",
-                "source": "https://github.com/Marttins23/alura-buscador-de-cursos/tree/v1.0.0"
+                "source": "https://github.com/Marttins23/alura-buscador-de-cursos/tree/v1.1.0"
             },
             "install-path": "../marttins23/buscador-cursos"
         },
