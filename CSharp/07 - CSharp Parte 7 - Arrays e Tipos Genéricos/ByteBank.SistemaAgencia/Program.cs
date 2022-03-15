@@ -20,7 +20,9 @@ namespace ByteBank.SistemaAgencia
             listaIdades.Adicionar(8);
             listaIdades.AdicionarVarios(8, 7, 14, 73);
 
-            listaIdades.ImprimeContas();
+            //listaIdades.ImprimeContas();
+
+            TestaListaDeContasCorrentes();
 
             Console.WriteLine("\nPressione enter para sair...");
             Console.ReadLine();
@@ -31,6 +33,7 @@ namespace ByteBank.SistemaAgencia
             ListaDeContaCorrente lista = new ListaDeContaCorrente(3);
 
             ContaCorrente contaJoao = new ContaCorrente("Joao", 876, 756473);
+            Console.WriteLine(contaJoao.GetType() == typeof(ContaCorrente));
 
             lista.AdicionarVarios(
                 contaJoao,
