@@ -6,6 +6,7 @@ use App\Http\Requests\SeriesFormRequest;
 use App\Models\Serie;
 use Illuminate\Http\RedirectResponse;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Http;
 
 class SeriesController extends Controller
 {
