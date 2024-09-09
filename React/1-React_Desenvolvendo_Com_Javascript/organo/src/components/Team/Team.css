@@ -1,0 +1,19 @@
+.team {
+    text-align: center;
+    padding: 28px;
+}
+
+.team h3 {
+    font-size: 28px;
+    border-bottom: 4px solid;
+    display: inline-block;
+    padding-bottom: 8px; 
+}
+
+.team .team-members {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 32px;
+    gap: 24px;
+}
