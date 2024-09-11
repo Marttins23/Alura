@@ -1,0 +1,23 @@
+.footer {
+    background-color: #6278f7;
+    display: flex;
+    color: white;
+    padding: 24px 0;
+    text-align: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.footer .column {
+    flex-grow: 1;
+    margin: 16px;
+}
+
+.footer .column.social-icons img {
+    padding: 0 16px;
+}
+
+.footer .column span {
+    font-size: 20px;
+    font-weight: 500;
+}

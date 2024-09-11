@@ -1,0 +1,23 @@
+.color-input-container {
+    display: flex;
+    justify-content: end;
+    padding-right: 32px;
+}
+
+.color-input-container.inside-form {
+    display: block;
+}
+
+.color-input-container.inside-form label {
+    margin-bottom: 8px;
+    margin-right: 16px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+@media only screen and (max-width: 567px) {
+    .color-input-container {
+        justify-content: center;
+        padding-right: 0;
+    }
+}
